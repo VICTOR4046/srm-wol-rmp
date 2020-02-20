@@ -1,0 +1,37 @@
+.container {
+  margin: 50px auto;
+  width: 640px;
+  background-color: #00FFFF;
+}
+ body {
+  font: 20px;
+   font-style: Lucida Grande;
+  color: #404040;
+  background: #0ca3d2;
+}
+.login {
+  position: relative;
+  margin: 0 auto;
+  padding: 20px 20px 20px;
+  width: 310px;
+}
+.login p.submit {
+  text-align: right;
+}
+ 
+.login-help {
+  margin: 20px 0;
+  font-size: 11px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px #2a85a1;
+}
+ 
+.login-help a {
+  color: #cce7fa;
+  text-decoration: none;
+}
+ 
+.login-help a:hover {
+  text-decoration: underline;
+}

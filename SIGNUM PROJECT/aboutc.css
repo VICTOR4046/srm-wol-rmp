@@ -1,0 +1,12 @@
+body {
+  font-style: Lucida Grande;
+  color: #404040;
+  text-align: center;
+  padding: 100px;
+  background-image: url(https://lh3.googleusercontent.com/proxy/hfACFJ8bsEb_G3pKdQKkqy-KVt_RHTd38aLUGn1SC9t4B0X9e94lpUEU_je1NQ0qQqs0GhbAu5lNfwEXRqDbaQKSm5D7nC2vXhgxCfg053E);
+  color: #fff;
+}
+
+.about h1 span {
+  color: #FFA500;
+}
