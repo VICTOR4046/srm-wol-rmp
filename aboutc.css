@@ -1,0 +1,12 @@
+body {
+  font-style: Lucida Grande;
+  color: #404040;
+  text-align: center;
+  padding: 100px;
+  background-image: url(https://cdn.wallpapersafari.com/66/82/pKCuAG.png);
+  color: #fff;
+}
+
+.about h1 span {
+  color: #FFA500;
+}
